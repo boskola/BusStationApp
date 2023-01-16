@@ -117,7 +117,7 @@ public class Line {
 	@Override
 	public String toString() {
 		return "Line [id=" + id + ", seatsNumber=" + seatsNumber + ", ticketPrice=" + ticketPrice + ", departureTime="
-				+ departureTime + ", destination=" + destination + ", operator=" + operator + "]";
+				+ departureTime + ", destination=" + destination + ", operatorId=" + operator.getId() + "]";
 	}
 
 }

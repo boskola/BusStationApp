@@ -33,7 +33,8 @@ public class LineDtoToLine implements Converter<LineDTO, Line>{
 			line.setSeatsNumber(dto.getSeatsNumber());
 			line.setDepartureTime(dto.getDepartureTime());
 			line.setDestination(dto.getDestination());
-			line.setOperator(operatorService.findOne(dto.getId()));
+			line.setTicketPrice(dto.getTicketPrice());
+			line.setOperator(operatorService.findOne(dto.getOperatorId()));
 			//line.setOperator(operatorService.findOneByName(dto.getOperatorName()));
 		}
 		

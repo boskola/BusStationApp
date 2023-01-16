@@ -80,5 +80,4 @@ public class LineDTO {
 	public void setOperatorName(String operatorName) {
 		this.operatorName = operatorName;
 	}
-	
 }
