@@ -1,19 +1,19 @@
 # BusStationApp
 
-## **Database**
+**Database**
 
--Relational Database (MySQL)
+- Relational Database (MySQL)
 
-## **Backend**
+**Backend**
 
--Java
--Spring framework
--Spring Data JPA with Hibernate implementation
--Dependency injection (Inversion of Control)
--Data Transfer Object
--Spring Security
--Authentication and authorization
+- Java
+- Spring framework
+- Spring Data JPA with Hibernate implementation
+- Dependency injection (Inversion of Control)
+- Data Transfer Object
+- Spring Security
+- Authentication and authorization
 
-## **Frontend**
+**Frontend**
 
 Working on it...
