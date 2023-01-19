@@ -1,10 +1,10 @@
 # BusStationApp
 
-## Database
+## **Database**
 
 -Relational Database (MySQL)
 
-## Backend
+## **Backend**
 
 -Java
 -Spring framework
@@ -14,6 +14,6 @@
 -Spring Security
 -Authentication and authorization
 
-## Frontend
+## **Frontend**
 
 Working on it...
